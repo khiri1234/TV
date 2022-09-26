@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/LOGO_Manoto-Rebrand_2018.png" group-title="dr.dish",MANOTO TV 
-https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+https://edge-uk1.manoto.click/live_1500.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="dr.dish",Iran International TV
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
